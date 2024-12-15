@@ -1,0 +1,3 @@
+# Update the base image to use Java 17
+FROM eclipse-temurin:17-jdk
+// ... rest of your Dockerfile content ... 
